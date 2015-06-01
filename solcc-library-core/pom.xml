@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
   
+  <groupId>com.solcc.library.core</groupId>
   <artifactId>solcc-library-core</artifactId>
   
   <name>solcc-library-core</name>

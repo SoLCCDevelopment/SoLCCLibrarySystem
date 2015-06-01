@@ -26,5 +26,11 @@
       <scope>test</scope>
     </dependency>
     
+    <dependency>
+      <groupId>com.solcc.library.core</groupId>
+      <artifactId>solcc-library-core</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+    
   </dependencies>
 </project>
