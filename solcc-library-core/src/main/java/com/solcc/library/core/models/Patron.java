@@ -9,7 +9,7 @@ public class Patron {
 	private String lastName;
 	private Character middleInitial;
 	private Integer age;	
-	private String birthday;
+	private Date birthday;
 	private Boolean isMember;
 	private Date dateRegistered;
 	
@@ -48,10 +48,10 @@ public class Patron {
 		this.age = age;
 	}
 	
-	public String getBirthday() {
+	public Date getBirthday() {
 		return birthday;
 	}
-	public void setBirthday(String birthday) {
+	public void setBirthday(Date birthday) {
 		this.birthday = birthday;
 	}
 	
