@@ -29,5 +29,6 @@
 		<module>solcc-library-ui</module>
 		<module>solcc-library-javafx</module>
 		<module>solcc-library-javafx-rnd</module>
+		<module>solcc-library-java-rnd</module>
 	</modules>
 </project>
